@@ -1,0 +1,11 @@
+.pageFooter {
+    background: #212121 !important;
+    text-align: center;
+    font-size: 14px;
+    padding: 10px 0px;
+    height: 100%;
+}
+
+.text-muted {
+    color: #ffffff !important;
+}
