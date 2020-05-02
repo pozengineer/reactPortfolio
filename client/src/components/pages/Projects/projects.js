@@ -1,5 +1,5 @@
-import React from "react";
-import { Card } from 'react-bootstrap';
+import React , { useState }from "react";
+import { Card, Button, Modal } from 'react-bootstrap';
 // import ProfilePic from '../../assets/images/profilePic01.jpg';
 // import Resume from '../../assets/resume/resumeMkIII.pdf';
 // import "./style.css";
