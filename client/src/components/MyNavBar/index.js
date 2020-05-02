@@ -6,7 +6,7 @@ import "./style.css";
 // That way we don't have to define them all individually
 function MyNavBar() {
     return (
-        <Navbar bg='dark' variant='dark' style={{ backgroundColor: "#212121" }} expand="lg" className='header'>
+        <Navbar variant='dark' style={{ backgroundColor: "#212121" }} expand="lg" className='header'>
             <Navbar.Brand className='navbar-brand' href="">DHANI POZNIAK</Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">

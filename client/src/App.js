@@ -7,6 +7,7 @@ import Header from './components/Header';
 import Wrapper from './components/Wrapper';
 import Footer from './components/Footer';
 import About from './components/pages/About';
+import Projects from './components/pages/Projects/projects';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
@@ -18,6 +19,9 @@ function App() {
                 <Switch>
                     <Route exact path={["/", "/about"]}>
                         <About />
+                    </Route>
+                    <Route exact path={["/projects"]}>
+                        <Projects />
                     </Route>
                 </Switch>
                 <Footer />

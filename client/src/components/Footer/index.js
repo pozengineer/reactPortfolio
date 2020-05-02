@@ -6,12 +6,12 @@ import "./style.css";
 function Footer() {
     return (
         <div className="pageFooter">
-            <span className="text-muted">Copyright &#169; 2020 POZ DRAFTING &#38; IT SOLUTIONS - All Rights Reserved</span>
+            <span className="text-white">Copyright &#169; 2020 POZ DRAFTING &#38; IT SOLUTIONS - All Rights Reserved</span>
             <br />
-            <span className="text-muted">dhani@pozitsolutions.com.au </span>
-            <span className="text-muted">| 0412 966 933</span>
+            <span className="text-white">dhani@pozitsolutions.com.au </span>
+            <span className="text-white">| 0412 966 933</span>
             <br />
-            <span className="text-muted">ROSE BAY, NSW</span>
+            <span className="text-white">ROSE BAY, NSW</span>
         </div>
     );
 }
