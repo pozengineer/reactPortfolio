@@ -8,7 +8,7 @@ import Wrapper from './components/Wrapper';
 import Footer from './components/Footer/footer';
 import PushDiv from './/components/Footer/pushDiv';
 import About from './components/pages/About';
-import Projects from './components/pages/Projects/projects';
+import Projects from './components/pages/Projects/projects.js';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
