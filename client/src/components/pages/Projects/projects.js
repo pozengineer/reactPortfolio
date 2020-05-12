@@ -1,6 +1,6 @@
 import React from "react";
 import { ProjectCard } from './projectCard';
-import projects from './projects.json';
+import projects from '../../assets/json/projects.json';
 import { Col, Row, Container } from 'react-bootstrap';
 // import ProfilePic from '../../assets/images/profilePic01.jpg';
 // import Resume from '../../assets/resume/resumeMkIII.pdf';
