@@ -1,6 +1,6 @@
 {
-  "homepage": "https://pozengineer.github.io/reactPortfolio/",
-  "name": "client",
+  "homepage": "http://pozengineer.github.io/reactPortfolio/",
+  "name": "reactportfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
