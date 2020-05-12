@@ -12,8 +12,14 @@ import "./style.css";
 // That way we don't have to define them all individually
 function Projects() {
     return (
-        <h1><b>Projects</b></h1>
-        <hr />
+        <Container>
+            <Row>
+                <Col md={12} >
+                    <h1><b>Projects</b></h1>
+                    <hr />
+                </Col>
+            </Row>
+        </Container>
     );
 }
 
