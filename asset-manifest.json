@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/reactPortfolio/static/css/main.aa520751.chunk.css",
-    "main.js": "/reactPortfolio/static/js/main.a7d3b7a0.chunk.js",
-    "main.js.map": "/reactPortfolio/static/js/main.a7d3b7a0.chunk.js.map",
-    "runtime-main.js": "/reactPortfolio/static/js/runtime-main.71316297.js",
-    "runtime-main.js.map": "/reactPortfolio/static/js/runtime-main.71316297.js.map",
+    "main.js": "/reactPortfolio/static/js/main.76c3a6a1.chunk.js",
+    "main.js.map": "/reactPortfolio/static/js/main.76c3a6a1.chunk.js.map",
+    "runtime-main.js": "/reactPortfolio/static/js/runtime-main.3b543bab.js",
+    "runtime-main.js.map": "/reactPortfolio/static/js/runtime-main.3b543bab.js.map",
     "static/css/2.de424728.chunk.css": "/reactPortfolio/static/css/2.de424728.chunk.css",
-    "static/js/2.085b0554.chunk.js": "/reactPortfolio/static/js/2.085b0554.chunk.js",
-    "static/js/2.085b0554.chunk.js.map": "/reactPortfolio/static/js/2.085b0554.chunk.js.map",
+    "static/js/2.75a6f8d1.chunk.js": "/reactPortfolio/static/js/2.75a6f8d1.chunk.js",
+    "static/js/2.75a6f8d1.chunk.js.map": "/reactPortfolio/static/js/2.75a6f8d1.chunk.js.map",
     "index.html": "/reactPortfolio/index.html",
-    "precache-manifest.d167e2d4f8cc04dc4cdfed221b3af415.js": "/reactPortfolio/precache-manifest.d167e2d4f8cc04dc4cdfed221b3af415.js",
+    "precache-manifest.59e3aaa553173c1bd00d04eb6607d51e.js": "/reactPortfolio/precache-manifest.59e3aaa553173c1bd00d04eb6607d51e.js",
     "service-worker.js": "/reactPortfolio/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/reactPortfolio/static/css/2.de424728.chunk.css.map",
     "static/css/main.aa520751.chunk.css.map": "/reactPortfolio/static/css/main.aa520751.chunk.css.map",
-    "static/js/2.085b0554.chunk.js.LICENSE.txt": "/reactPortfolio/static/js/2.085b0554.chunk.js.LICENSE.txt",
+    "static/js/2.75a6f8d1.chunk.js.LICENSE.txt": "/reactPortfolio/static/js/2.75a6f8d1.chunk.js.LICENSE.txt",
     "static/media/pozLogoHtml.jpg": "/reactPortfolio/static/media/pozLogoHtml.61974699.jpg",
     "static/media/profilePic01.jpg": "/reactPortfolio/static/media/profilePic01.b0fdd5f9.jpg",
     "static/media/resumeMkIII.pdf": "/reactPortfolio/static/media/resumeMkIII.46b39f5b.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.71316297.js",
+    "static/js/runtime-main.3b543bab.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.085b0554.chunk.js",
+    "static/js/2.75a6f8d1.chunk.js",
     "static/css/main.aa520751.chunk.css",
-    "static/js/main.a7d3b7a0.chunk.js"
+    "static/js/main.76c3a6a1.chunk.js"
   ]
 }
