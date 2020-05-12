@@ -5,7 +5,8 @@ import Header from './components/Header';
 // import MyNavBar from './components/MyNavBar';
 // import Nav from './components/Nav';
 import Wrapper from './components/Wrapper';
-import Footer from './components/Footer';
+import Footer from './components/Footer/footer';
+import PushDiv from './/components/Footer/pushDiv';
 import About from './components/pages/About';
 import Projects from './components/pages/Projects/projects';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -13,19 +14,22 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function App() {
     return (
         <Router>
-            <div>
+            <div className='App'>
                 <Header />
                 <Wrapper />
-                <Switch>
-                    <Route exact path={["/", "/about"]}>
-                        <About />
-                    </Route>
-                    <Route exact path={["/projects"]}>
-                        <Projects />
-                    </Route>
-                </Switch>
-                <Footer />
+                <div className='container'>
+                    <Switch>
+                        <Route exact path={["/", "/about"]}>
+                            <About />
+                        </Route>
+                        <Route exact path={["/projects"]}>
+                            <Projects />
+                        </Route>
+                    </Switch>
+                </div>
+                <PushDiv/>
             </div>
+            <Footer />
         </Router>
     );
 }

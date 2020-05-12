@@ -9,3 +9,7 @@
 .text-white {
     color: #ffffff !important;
 }
+
+.push {
+    height: 50px;
+}
