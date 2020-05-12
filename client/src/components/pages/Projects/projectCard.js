@@ -10,7 +10,7 @@ export const ProjectCard = (props) => {
     return (
         <Col sm={12} md={4} className='projectColumn'>
             <Card>
-                <Card.Img variant="top" src={} />
+                <Card.Img variant="top" src={props.project.image} />
                 <Card.Body>
                     <Card.Title>{props.project.name}</Card.Title>
                     <Card.Text>
