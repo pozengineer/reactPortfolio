@@ -1,5 +1,8 @@
 import React, { useState }from "react";
 import { ProjectCard } from './projectCard';
+import digiPic01 from '../../assets/images/digiPic01.jpg';
+import digiPic02 from '../../assets/images/digiPic02.jpg';
+import digiPic03 from '../../assets/images/digiPic03.jpg';
 import { Col, Row, Container } from 'react-bootstrap';
 // import ProfilePic from '../../assets/images/profilePic01.jpg';
 // import Resume from '../../assets/resume/resumeMkIII.pdf';
