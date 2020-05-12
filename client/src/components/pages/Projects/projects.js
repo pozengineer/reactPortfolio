@@ -1,6 +1,6 @@
 import React, { useState }from "react";
 import { ProjectCard } from './projectCard';
-import projects from '../../assets/json/projects.json';
+import { projectsArray } from './projectList';
 import { Col, Row, Container } from 'react-bootstrap';
 // import ProfilePic from '../../assets/images/profilePic01.jpg';
 // import Resume from '../../assets/resume/resumeMkIII.pdf';
@@ -9,7 +9,8 @@ import "./style.css";
 // The ...props means, spread all of the passed props onto this element
 // That way we don't have to define them all individually
 function Projects() {
-    const [projectList, setProjectList] = useState(projects);
+    
+    const [projectList, setProjectList] = useState(projectsArray);
     return (
         <Container>
             <Row>
