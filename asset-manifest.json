@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.aa520751.chunk.css",
-    "main.js": "/static/js/main.20c95d21.chunk.js",
-    "main.js.map": "/static/js/main.20c95d21.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.784c586e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.784c586e.js.map",
-    "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
-    "static/js/2.085b0554.chunk.js": "/static/js/2.085b0554.chunk.js",
-    "static/js/2.085b0554.chunk.js.map": "/static/js/2.085b0554.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.c3f944948f57a9e36e6c8241b237f5ea.js": "/precache-manifest.c3f944948f57a9e36e6c8241b237f5ea.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
-    "static/css/main.aa520751.chunk.css.map": "/static/css/main.aa520751.chunk.css.map",
-    "static/js/2.085b0554.chunk.js.LICENSE.txt": "/static/js/2.085b0554.chunk.js.LICENSE.txt",
-    "static/media/pozLogoHtml.jpg": "/static/media/pozLogoHtml.61974699.jpg",
-    "static/media/profilePic01.jpg": "/static/media/profilePic01.b0fdd5f9.jpg",
-    "static/media/resumeMkIII.pdf": "/static/media/resumeMkIII.46b39f5b.pdf"
+    "main.css": "/reactPortfolio/static/css/main.aa520751.chunk.css",
+    "main.js": "/reactPortfolio/static/js/main.a7d3b7a0.chunk.js",
+    "main.js.map": "/reactPortfolio/static/js/main.a7d3b7a0.chunk.js.map",
+    "runtime-main.js": "/reactPortfolio/static/js/runtime-main.71316297.js",
+    "runtime-main.js.map": "/reactPortfolio/static/js/runtime-main.71316297.js.map",
+    "static/css/2.de424728.chunk.css": "/reactPortfolio/static/css/2.de424728.chunk.css",
+    "static/js/2.085b0554.chunk.js": "/reactPortfolio/static/js/2.085b0554.chunk.js",
+    "static/js/2.085b0554.chunk.js.map": "/reactPortfolio/static/js/2.085b0554.chunk.js.map",
+    "index.html": "/reactPortfolio/index.html",
+    "precache-manifest.d167e2d4f8cc04dc4cdfed221b3af415.js": "/reactPortfolio/precache-manifest.d167e2d4f8cc04dc4cdfed221b3af415.js",
+    "service-worker.js": "/reactPortfolio/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/reactPortfolio/static/css/2.de424728.chunk.css.map",
+    "static/css/main.aa520751.chunk.css.map": "/reactPortfolio/static/css/main.aa520751.chunk.css.map",
+    "static/js/2.085b0554.chunk.js.LICENSE.txt": "/reactPortfolio/static/js/2.085b0554.chunk.js.LICENSE.txt",
+    "static/media/pozLogoHtml.jpg": "/reactPortfolio/static/media/pozLogoHtml.61974699.jpg",
+    "static/media/profilePic01.jpg": "/reactPortfolio/static/media/profilePic01.b0fdd5f9.jpg",
+    "static/media/resumeMkIII.pdf": "/reactPortfolio/static/media/resumeMkIII.46b39f5b.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.784c586e.js",
+    "static/js/runtime-main.71316297.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.085b0554.chunk.js",
     "static/css/main.aa520751.chunk.css",
-    "static/js/main.20c95d21.chunk.js"
+    "static/js/main.a7d3b7a0.chunk.js"
   ]
 }
