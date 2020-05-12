@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState }from "react";
 import { ProjectCard } from './projectCard';
 import projects from '../../assets/json/projects.json';
 import { Col, Row, Container } from 'react-bootstrap';
@@ -9,6 +9,7 @@ import "./style.css";
 // The ...props means, spread all of the passed props onto this element
 // That way we don't have to define them all individually
 function Projects() {
+    const [projectList, setProjectList] = useState(projects);
     return (
         <Container>
             <Row>
@@ -18,7 +19,7 @@ function Projects() {
                 </Col>
             </Row>
             <Row>
-                {projects && projects.map(element => {
+                {projectList && projectList.map(element => {
                     return (
                         <ProjectCard key={element.id} project={element} />
                     )
