@@ -5,7 +5,7 @@ const bodyParser = require("body-parser");
 const cors = require('cors');
 const path = require('path');
 
-// const routes = require("./routes");
+const routes = require("./routes");
 
 const app = express();
 // const User = require("./models/User.js");
@@ -39,7 +39,7 @@ app.get(function(req, res) {
 });
 
 // Add routes, both API and view
-// app.use(routes);
+app.use(routes);
 
 // Connect to the Mongo DB
 // mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/reactreadinglist");
