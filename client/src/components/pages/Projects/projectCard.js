@@ -10,7 +10,7 @@ export const ProjectCard = (props) => {
     return (
         <Col sm={12} md={4} className='projectColumn'>
             <Card>
-                <Card.Img variant="top" src={props.project.image} />
+                <Card.Img variant="top" src={props.project.image} className='img-fluid' />
                 <Card.Body>
                     <Card.Title>{props.project.name}</Card.Title>
                     <Card.Text>
@@ -18,8 +18,8 @@ export const ProjectCard = (props) => {
                     </Card.Text>
                     <>
                         <Button variant="primary" onClick={() => setModalShow(true)}>
-                            Launch vertically centered modal
-                    </Button>
+                            {props.project.name}
+                        </Button>
 
                         <MyVerticallyCenteredModal
                             show={modalShow}

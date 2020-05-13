@@ -22,9 +22,9 @@ export const MyVerticallyCenteredModal = (props) => {
                 <p>
                     {props.project.description}
                 </p>
-                <a href={props.project.url} target="_blank" rel="noopener noreferrer">
+                <Button href={props.project.github} target="_blank" rel="noopener noreferrer">
                     GitHub
-                </a>
+                </Button>
             </Modal.Body>
             <Modal.Footer>
                 <Button onClick={props.onHide}>Close</Button>

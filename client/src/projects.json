@@ -30,5 +30,38 @@
     "This application is an employee directory that was created using React. It allows the user to filter their employees to easily find the details of specific people. It also allows the user to sort through the names in alphabetical and reverse.", 
     "url": "https://tonnette-employee-react-app.herokuapp.com/",
     "github": "https://github.com/Tonnette/React-Employee-Directory"
+  },
+  {
+    "id": 4,
+    "name": "React Employee Directory",
+    "image":
+      "./digiPic04.jpg",
+    "alt": "screenshot of Employee Directory App",
+    "description": 
+    "This application is an employee directory that was created using React. It allows the user to filter their employees to easily find the details of specific people. It also allows the user to sort through the names in alphabetical and reverse.", 
+    "url": "https://tonnette-employee-react-app.herokuapp.com/",
+    "github": "https://github.com/Tonnette/React-Employee-Directory"
+  },
+  {
+    "id": 5,
+    "name": "React Employee Directory",
+    "image":
+      "./digiPic05.jpg",
+    "alt": "screenshot of Employee Directory App",
+    "description": 
+    "This application is an employee directory that was created using React. It allows the user to filter their employees to easily find the details of specific people. It also allows the user to sort through the names in alphabetical and reverse.", 
+    "url": "https://tonnette-employee-react-app.herokuapp.com/",
+    "github": "https://github.com/Tonnette/React-Employee-Directory"
+  },
+  {
+    "id": 6,
+    "name": "React Employee Directory",
+    "image":
+      "./digiPic06.jpg",
+    "alt": "screenshot of Employee Directory App",
+    "description": 
+    "This application is an employee directory that was created using React. It allows the user to filter their employees to easily find the details of specific people. It also allows the user to sort through the names in alphabetical and reverse.", 
+    "url": "https://tonnette-employee-react-app.herokuapp.com/",
+    "github": "https://github.com/Tonnette/React-Employee-Directory"
   }
 ]
