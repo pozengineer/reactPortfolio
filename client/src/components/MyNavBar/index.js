@@ -15,7 +15,7 @@ function MyNavBar() {
                     <Nav.Link className="nav-link" href='/'><i className="fab fa fa-home"></i></Nav.Link>
                     <Nav.Link className="nav-link" href="https://github.com/pozengineer" target='_blank'><i className="fab fa fa-github"></i></Nav.Link>
                     <Nav.Link className="nav-link" href="https://linkedin.com/in/dhani-pozniak-34801a196" target='_blank'><i className="fab fa fa-linkedin-square"></i></Nav.Link>
-                    <Link to='projects'>Projects</Link>
+                    <Nav.Link className="nav-link" href='/projects'>Projects</Nav.Link>
                     <Nav.Link className="nav-link" >Contact</Nav.Link>
                 </Nav>
                 <Form inline>
