@@ -18,8 +18,14 @@ function App() {
                 <Header />
                 <Wrapper />
                 <div className='container'>
-                    <Route exact path={["/", "/about"]} component={ About } />
-                    <Route exact path="/projects" component={Projects} />
+                    <Switch>
+                    <Route exact path={["/", "/about"]}>
+                        <About />
+                    </Route>
+                    <Route exact path={["/projects"]}>
+                        <Projects />
+                    </Route>
+                    </Switch>
                 </div>
                 <PushDiv/>
             </div>
