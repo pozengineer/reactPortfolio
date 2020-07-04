@@ -8,7 +8,7 @@ import Logo from '../assets/images/Logo/pozLogoHtml.jpg';
 function Header() {
     return (
         <Row className="brandname">
-            <Col sm={12} md={{ span: 6, offset: 3 }} className="navLogo navbar-brand">
+            <Col sm={12} md={12} lg={6} className="navLogo navbar-brand">
                 <img src={ Logo } alt="Company Logo" className="logoImage" />
             </Col>
         </Row>
