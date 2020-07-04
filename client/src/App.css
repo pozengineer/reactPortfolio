@@ -273,9 +273,9 @@ hr {
     color: #ffffff !important;
 }
 
-.btn {
-    width: 100%;
-    /* display: block; */
+.btnNotUsed {
+    /* width: 100%; */
+    display: block;
     --hue: var(--hue-neutral);
     /* background-color: hsl(var(--hue), 100%, 50%); */
     background-color: #212121 !important;

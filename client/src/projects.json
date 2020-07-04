@@ -1,9 +1,10 @@
 [
     {
       "id": 1,
-      "name": "Movie App",
-      "image": "./digiPic01.jpg",
-      "alt": "screenshot of Movie Review Website",
+      "name": "LandScape",
+      "pageImage": "./digiPic01,.jpg",
+      "modalImage": "./",
+      "alt": "screenshot of LandScape App",
       "description": 
       "This is a movie review website where users can look up any movie and see reviews. This could help them decide to watch a movie or not. Secondly, users can register as a member and this allows them to also add their own reviews. They can also go into their profile page and delete any of their reviews that they are not happy with.",
       "url": "https://lit-peak-86961.herokuapp.com/",
